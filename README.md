@@ -1,6 +1,6 @@
 # news_app
 
-A new Flutter application.
+![](assets/screen_shots/news1.PNG) ![](assets/screen_shots/news2.PNG) ![](assets/screen_shots/news3.PNG)
 
 ## Getting Started
 
